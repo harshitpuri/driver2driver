@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/driver2driver/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/driver2driver/static/js/main.4b1f9f13.chunk.js",
+    "main.js.map": "/driver2driver/static/js/main.4b1f9f13.chunk.js.map",
+    "runtime-main.js": "/driver2driver/static/js/runtime-main.c516f7be.js",
+    "runtime-main.js.map": "/driver2driver/static/js/runtime-main.c516f7be.js.map",
+    "static/js/2.8b5ebdb4.chunk.js": "/driver2driver/static/js/2.8b5ebdb4.chunk.js",
+    "static/js/2.8b5ebdb4.chunk.js.map": "/driver2driver/static/js/2.8b5ebdb4.chunk.js.map",
+    "static/js/3.ca6231f8.chunk.js": "/driver2driver/static/js/3.ca6231f8.chunk.js",
+    "static/js/3.ca6231f8.chunk.js.map": "/driver2driver/static/js/3.ca6231f8.chunk.js.map",
+    "index.html": "/driver2driver/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/driver2driver/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.8b5ebdb4.chunk.js.LICENSE.txt": "/driver2driver/static/js/2.8b5ebdb4.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/driver2driver/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c516f7be.js",
+    "static/js/2.8b5ebdb4.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.4b1f9f13.chunk.js"
+  ]
+}
