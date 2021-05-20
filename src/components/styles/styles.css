@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    font-family: "Titillium Web", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .header {
+    display: flex;
+    flex-direction: column;
+    vertical-align: middle;
+  }
+  
+  .title-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    vertical-align: middle;
+    align-items: center;
+    background-color: #ffffff;
+    width: 100vw;
+    height: 7vh;
+  }
+  
+  .page-title {
+    display: flex;
+  
+    text-align: center;
+    vertical-align: middle;
+    margin: 0px;
+    color: #0e0e0e;
+    height: auto;
+  }
+  
+  .score-header {
+    background-color: #e10600;
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .score-wrapper {
+    display: flex;
+    flex-direction: row;
+    margin: 2rem;
+    font-size: larger;
+  }
+  
+  .score-title {
+    margin: 0.25rem;
+    color: #ffffff;
+    font-weight: bold;
+  }
+  
+  .score {
+    margin: 0.25rem;
+    color: #ffffff;
+    font-weight: 400;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    overflow-y: scroll;
+    max-height: 75vh;
+    padding: 1rem;
+    justify-content: center;
+  }
+  
+  .card-click-box {
+    border-width: 3px 3px 0px 0px;
+    border-radius: 0.8rem;
+  
+    margin: 3rem;
+  
+    cursor: pointer;
+  }
+  
