@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Driver-2-Driver",
+  "name": "Formula 1 2021 Season Drivers Matching Game",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "f1favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
