@@ -2,7 +2,7 @@
   "name": "driver2driver",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://harshitpuri.github.io/driver2driver/",
+  "homepage": "https://driver2driver.tk",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
