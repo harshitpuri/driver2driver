@@ -12,6 +12,7 @@ body {
   }
   
   .title-header {
+    margin-top: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -23,8 +24,8 @@ body {
   }
   
   .page-title {
+    margin-top: 20px;
     display: flex;
-  
     text-align: center;
     vertical-align: middle;
     margin: 0px;
@@ -33,9 +34,10 @@ body {
   }
   
   .score-header {
+    margin-top: 20px;
     background-color: #e10600;
     width: 100vw;
-    height: 10vh;
+    height: 50px;
     display: flex;
     flex-direction: row;
     justify-content: center;
